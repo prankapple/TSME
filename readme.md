@@ -3,7 +3,7 @@
 ## Install
 Run :
 ```bash
-git clone https://gihub.com/example/example.git TSME
+git clone https://github.com/prankapple/TSME.git TSME
 cd TSME
 pip install -r requirements.txt
 ```
@@ -167,4 +167,5 @@ let userKey = "";
     }
 
 ```
+
 
